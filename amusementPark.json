@@ -8,3 +8,4 @@
     {"ParkID":5,"ParkName":"Motor World Virginia Beach","ParkDesc":"Motor World Virginia Beach is located in Virginia Beach, Virginia and includes a 36-hole mini golf course, an amusement park for kids that offers 10 different rides, a rock-climbing wall, a 130 ft. tall sky coaster, and 11 unique go kart tracks. Motor World's main attraction is the go karts they offer 11 tracks, 250 different karts to choose from, all of which come in 16 different racing style that you can further choose from.","ParkState":"Virginia 23451","ParkCity":"700 Birdneck Rd S, Virginia Beach ","ParkAttractions":"14","ParkCoasters":"1","ParkUrl":"https://www.ultimaterollercoaster.com/themeparks/virginiabeach_va/","ParkImage":"https://raw.githubusercontent.com/mpadill/IT315_Project2/main/motor.jpg","ParkStars":"https://raw.githubusercontent.com/mpadill/IT315_Project2/main/ferris-wheel-3.png"}
   ],
   "Status":"OK"
+}
